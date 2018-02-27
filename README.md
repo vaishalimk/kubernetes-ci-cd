@@ -1,4 +1,4 @@
-#Linux.com Kubernetes CI/CD  Series 
+# Kubernetes CI/CD  Series 
 
 The kubernetes-ci-cd project is  crossword puzzle application that runs as several containers in Kubernetes (we call it the Kr8sswordz Puzzle). It showcases Kubernetes features like spinning up multiple pods and running a load test at scale. It also features Jenkins running on its own a container and a JenkinsFile script to demonstrate how Kubernetes can be integrated into a full CI/CD pipeline. 
 
